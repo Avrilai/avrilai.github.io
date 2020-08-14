@@ -1,0 +1,14 @@
+.homepage {
+    background-color: #1d2d37;
+    color: white;
+    font-family: Lato, monospace;
+}
+
+.h4 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+a, a:visited, a:hover, a:active {
+    color: orange;
+}
